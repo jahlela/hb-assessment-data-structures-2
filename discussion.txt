@@ -1,0 +1,19 @@
+Recursion
+
+    1. Recursion is the process of a function calling itself.
+
+    2. Without a base case (a halting condition), a function will run
+       forever or until the machine running it runs out of memory, which
+       will result in a "RuntimeError: maximum recursion depth exceeded" 
+       message and a terminated program.
+ 
+
+Graphs
+
+    1. Graphs are one or more connected or unconnected nodes which can be
+       cyclic or acyclic, and directed or undirected. 
+
+    2. Trees, unlike graphs, cannot have directed edges, nor can they have 
+       loops.
+
+    3. One could graph all of the tributaries that lead to a  major river.
